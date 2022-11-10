@@ -1,8 +1,8 @@
 # VHDL_CodeCoverageReportSample
-Tutorials how to coverage data from verilog file into the report web-based
-This is an example how to coverage data from verilog testbench file into html-based, which will be used later to indicate its content on the web-based.
-This tutorial is based on the instructions by Tomin Abraham [Verilog Code Coverage](https://www.youtube.com/watch?v=vkzd5ckQ5ZQ).
-What we have to do 1st is to choose the right directory of the verilog file and testbench file to work on these 2 files
+- Tutorials how to coverage data from verilog file into the report web-based.
+- This is an example how to coverage data from verilog testbench file into html-based, which will be used later to indicate its content on the web-based.
+- This tutorial is based on the instructions by Tomin Abraham [Verilog Code Coverage](https://www.youtube.com/watch?v=vkzd5ckQ5ZQ).
+- What we have to do 1st is to choose the right directory of the verilog file and testbench file to work on these 2 files.
 ## Step 1: Map the library
 ```
 vmap (library name) (library name)
