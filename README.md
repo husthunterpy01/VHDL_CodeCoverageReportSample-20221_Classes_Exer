@@ -30,5 +30,5 @@ vsim -coverage -vopt (library name).(module name(testbench)) -c -do "coverage sa
 vcover report -html (report name).ucdb
 ```
 ## Step 6: Open the covhtml file and click the index.html, the final report will be opened on the website based.
-The final result shoud be as the below :
+The final result shoud be looked as the below :
 ![final_rel_rp16](https://user-images.githubusercontent.com/96186749/201160947-8412b6a9-a199-42ff-b6f8-cd9e702bdcf8.png)
