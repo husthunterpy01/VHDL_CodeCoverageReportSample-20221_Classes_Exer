@@ -1,0 +1,73 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dF:/VHDL/ET5080E - 20221/HW7/BCD
+T_opt
+!s110 1669736560
+VLEf;Q9LN2I_m0j`f>Rm]]3
+Z1 04 10 4 work encoder_tb fast 0
+=1-d481d7904447-63862870-a5-4200
+o-quiet -auto_acc_if_foreign -work work +acc
+Z2 tCvgOpt 0
+n@_opt
+Z3 OL;O;10.7;67
+R0
+T_opt1
+!s110 1669737005
+VeAfO]l2NiZ5FA06B4]_b>0
+R1
+=1-d481d7904447-63862a2d-a0-630
+o-quiet -auto_acc_if_foreign -work work
+R2
+n@_opt1
+R3
+vencoder8_3
+Z4 !s110 1669736968
+!i10b 1
+!s100 EOOo55Q@XEbN164kFjn390
+IXm^1mF;4lEAhCA@aR2BbS3
+Z5 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1669736489
+8encoder.v
+Fencoder.v
+L0 2
+Z6 OL;L;10.7;67
+r1
+!s85 0
+31
+Z7 !s108 1669736968.000000
+Z8 !s107 encoder_tb.v|encoder.v|
+Z9 !s90 -reportprogress|300|-coveropt|3|+cover|+acc|encoder.v|encoder_tb.v|
+!i113 0
+Z10 !s102 -coveropt 3 +cover
+Z11 o-coveropt 3 +cover +acc -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+vencoder_tb
+R4
+!i10b 1
+!s100 IRfOB8mdkIjLz=KRc6]Lj1
+IeeYY1[0R7k@=;`SHFkoV10
+R5
+R0
+w1669736538
+8encoder_tb.v
+Fencoder_tb.v
+L0 2
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 0
+R10
+R11
+R2

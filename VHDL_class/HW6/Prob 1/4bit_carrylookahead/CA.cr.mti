@@ -1,0 +1,15 @@
+{F:/VHDL/ET5080E - 20221/HW6/Prob 1/4bit_carrylookahead/CA_tb.v} {1 {vlog -work work -vopt -stats=none {F:/VHDL/ET5080E - 20221/HW6/Prob 1/4bit_carrylookahead/CA_tb.v}
+Model Technology ModelSim SE-64 vlog 10.7 Compiler 2017.12 Dec  7 2017
+-- Compiling module Test_CLA_4bit
+
+Top level modules:
+	Test_CLA_4bit
+
+} {} {}} {F:/VHDL/ET5080E - 20221/HW6/Prob 1/4bit_carrylookahead/CA.v} {1 {vlog -work work -vopt -stats=none {F:/VHDL/ET5080E - 20221/HW6/Prob 1/4bit_carrylookahead/CA.v}
+Model Technology ModelSim SE-64 vlog 10.7 Compiler 2017.12 Dec  7 2017
+-- Compiling module CLA_4bit
+
+Top level modules:
+	CLA_4bit
+
+} {} {}}

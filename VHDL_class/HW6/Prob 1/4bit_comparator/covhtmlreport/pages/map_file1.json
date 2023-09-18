@@ -1,0 +1,5 @@
+var g_data = {'dummy':{null},
+'work.cp_4bit':{h:'3',z:1},
+'/tb/dut':{h:'54',z:1},
+'work.tb':{h:'2',z:1},
+'/tb':{h:'4',z:1}};

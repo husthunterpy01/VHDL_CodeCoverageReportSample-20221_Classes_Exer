@@ -1,0 +1,117 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dF:/VHDL/ET5080E - 20221/HW5/Carry Look Ahead Adder n-bit
+T_opt
+!s110 1668353113
+V@XLWKWB12kJk7eC4WE<^L0
+Z1 04 8 4 work test_CLA fast 0
+=1-d481d7904447-63710c59-44-d58
+o-quiet -auto_acc_if_foreign -work work +acc
+Z2 tCvgOpt 0
+n@_opt
+Z3 OL;O;10.7;67
+R0
+T_opt1
+!s110 1668351699
+Vl7K38oa6YUOPHd<>O9Zdh1
+R1
+=1-d481d7904447-637106d2-38f-3e80
+Z4 o-quiet -auto_acc_if_foreign -work work
+R2
+n@_opt1
+R3
+R0
+vCLA
+Z5 !s110 1668352701
+!i10b 1
+!s100 :RL3XDN]M??h2WFG1XHCW2
+IjH_:e3Hc1d;o?9N9TJ=3L0
+Z6 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z7 w1668351291
+Z8 8F:/VHDL/ET5080E - 20221/HW5/Carry Look Ahead Adder n-bit/carryadder.v
+Z9 FF:/VHDL/ET5080E - 20221/HW5/Carry Look Ahead Adder n-bit/carryadder.v
+L0 38
+Z10 OL;L;10.7;67
+r1
+!s85 0
+31
+Z11 !s108 1668352701.000000
+Z12 !s107 F:/VHDL/ET5080E - 20221/HW5/Carry Look Ahead Adder n-bit/carryadder.v|
+Z13 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|F:/VHDL/ET5080E - 20221/HW5/Carry Look Ahead Adder n-bit/carryadder.v|
+!i113 0
+Z14 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+n@c@l@a
+vfull_adder_gp
+R5
+!i10b 1
+!s100 l<mR@mE3X;`m1@B<V0h3E0
+IBXWWSWTc>]THL=2VP?da_3
+R6
+R0
+R7
+R8
+R9
+L0 4
+R10
+r1
+!s85 0
+31
+R11
+R12
+R13
+!i113 0
+R14
+R2
+vGP
+R5
+!i10b 1
+!s100 g2LGiPoEPfBSPaYR_YPf73
+IhHC=4:J>a7m[dgCoACC5T1
+R6
+R0
+R7
+R8
+R9
+L0 19
+R10
+r1
+!s85 0
+31
+R11
+R12
+R13
+!i113 0
+R14
+R2
+n@g@p
+vtest_CLA
+R5
+!i10b 1
+!s100 K5LGo[hNzjDCOHOMTcElB3
+ICnPnd3=El[jPo=<Ggk@l32
+R6
+R0
+w1668352693
+8F:/VHDL/ET5080E - 20221/HW5/Carry Look Ahead Adder n-bit/carryadder_tb.v
+FF:/VHDL/ET5080E - 20221/HW5/Carry Look Ahead Adder n-bit/carryadder_tb.v
+L0 4
+R10
+r1
+!s85 0
+31
+R11
+!s107 F:/VHDL/ET5080E - 20221/HW5/Carry Look Ahead Adder n-bit/carryadder_tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|F:/VHDL/ET5080E - 20221/HW5/Carry Look Ahead Adder n-bit/carryadder_tb.v|
+!i113 0
+R14
+R2
+ntest_@c@l@a

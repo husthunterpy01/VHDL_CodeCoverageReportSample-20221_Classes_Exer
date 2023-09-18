@@ -1,0 +1,73 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dF:/VHDL/ET5080E - 20221/HW5/Gray counter n-bit
+T_opt
+!s110 1668322331
+ViG@DbGNbMQ`nzNESJc>I;2
+Z1 04 8 4 work gray1_tb fast 0
+=1-d481d7904447-6370941a-3c0-2e38
+o-quiet -auto_acc_if_foreign -work work
+Z2 tCvgOpt 0
+n@_opt
+Z3 OL;O;10.7;67
+R0
+T_opt1
+!s110 1668703614
+VXIQln]1afz;STROV;:S9J3
+R1
+=1-d481d7904447-6376657e-244-11d0
+o-quiet -auto_acc_if_foreign -work work +acc
+R2
+n@_opt1
+R3
+vgray1
+Z4 !s110 1668322227
+!i10b 1
+!s100 65LVPG?k9>MkOXC;5b3TE1
+I[aJBkk]^:OC>^fJHJP_l_3
+Z5 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1668321615
+8gray1.v
+Fgray1.v
+L0 1
+Z6 OL;L;10.7;67
+r1
+!s85 0
+31
+Z7 !s108 1668322227.000000
+Z8 !s107 gray1_tb.v|gray1.v|
+Z9 !s90 -reportprogress|300|-coveropt|3|+cover|+acc|gray1.v|gray1_tb.v|
+!i113 0
+Z10 !s102 -coveropt 3 +cover
+Z11 o-coveropt 3 +cover +acc -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+vgray1_tb
+R4
+!i10b 1
+!s100 8A:mhmJ??Pj>=:5?:0DAe0
+IFSioEbZW0<A_h_zDe]XcD0
+R5
+R0
+w1668313124
+8gray1_tb.v
+Fgray1_tb.v
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 0
+R10
+R11
+R2

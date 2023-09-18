@@ -1,0 +1,15 @@
+{F:/VHDL/ET5080E - 20221/HW7/Flip Flop/DFF/Synchronous/dff_tb.v} {1 {vlog -work work -vopt -stats=none {F:/VHDL/ET5080E - 20221/HW7/Flip Flop/DFF/Synchronous/dff_tb.v}
+Model Technology ModelSim SE-64 vlog 10.7 Compiler 2017.12 Dec  7 2017
+-- Compiling module Tb_dflipflop_synrst
+
+Top level modules:
+	Tb_dflipflop_synrst
+
+} {} {}} {F:/VHDL/ET5080E - 20221/HW7/Flip Flop/DFF/Synchronous/dff.v} {1 {vlog -work work -vopt -stats=none {F:/VHDL/ET5080E - 20221/HW7/Flip Flop/DFF/Synchronous/dff.v}
+Model Technology ModelSim SE-64 vlog 10.7 Compiler 2017.12 Dec  7 2017
+-- Compiling module d_flipflop_synrst
+
+Top level modules:
+	d_flipflop_synrst
+
+} {} {}}

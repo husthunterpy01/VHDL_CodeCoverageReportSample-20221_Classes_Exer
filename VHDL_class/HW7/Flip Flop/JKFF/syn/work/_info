@@ -1,0 +1,63 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dF:/VHDL/ET5080E - 20221/HW7/Flip Flop/JKFF/syn
+T_opt
+!s110 1669804931
+VF^0floPonTlRGM`RDL:Dk2
+04 8 4 work JK_ff_tb fast 0
+=1-d481d7904447-63873382-3cf-624
+o-quiet -auto_acc_if_foreign -work work +acc
+Z1 tCvgOpt 0
+n@_opt
+OL;O;10.7;67
+vJK_ff
+Z2 !s110 1669804926
+!i10b 1
+!s100 OM;7PRTW7FN9f`AT92GoC2
+IAc<VgL<9^Odf04b9[gAAR2
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1669804922
+8F:/VHDL/ET5080E - 20221/HW7/Flip Flop/JKFF/syn/jk.v
+FF:/VHDL/ET5080E - 20221/HW7/Flip Flop/JKFF/syn/jk.v
+L0 1
+Z4 OL;L;10.7;67
+r1
+!s85 0
+31
+Z5 !s108 1669804926.000000
+!s107 F:/VHDL/ET5080E - 20221/HW7/Flip Flop/JKFF/syn/jk.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|F:/VHDL/ET5080E - 20221/HW7/Flip Flop/JKFF/syn/jk.v|
+!i113 0
+Z6 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
+n@j@k_ff
+vJK_ff_tb
+R2
+!i10b 1
+!s100 bPG?PU^QHJUgACP14iFcR1
+IPaSjk4^?5iiQzaP=RnElL0
+R3
+R0
+w1669804921
+8F:/VHDL/ET5080E - 20221/HW7/Flip Flop/JKFF/syn/jk_tb.v
+FF:/VHDL/ET5080E - 20221/HW7/Flip Flop/JKFF/syn/jk_tb.v
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+!s107 F:/VHDL/ET5080E - 20221/HW7/Flip Flop/JKFF/syn/jk_tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|F:/VHDL/ET5080E - 20221/HW7/Flip Flop/JKFF/syn/jk_tb.v|
+!i113 0
+R6
+R1
+n@j@k_ff_tb

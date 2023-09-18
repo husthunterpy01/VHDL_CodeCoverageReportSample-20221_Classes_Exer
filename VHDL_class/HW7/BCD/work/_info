@@ -1,0 +1,93 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dF:/VHDL/ET5080E - 20221/HW7/BCD
+T_opt
+!s110 1669738128
+V`1k^za6]]TJffRW5K:7[C1
+Z1 04 2 4 work tb fast 0
+=1-d481d7904447-63862e90-2f7-385c
+o-quiet -auto_acc_if_foreign -work work +acc
+Z2 tCvgOpt 0
+n@_opt
+Z3 OL;O;10.7;67
+R0
+T_opt1
+!s110 1669738733
+VZIMCYe^1k::GMBl0cEXAB2
+R1
+=1-d481d7904447-638630ed-29d-52c8
+o-quiet -auto_acc_if_foreign -work work
+R2
+n@_opt1
+R3
+vbcd_tb
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+31
+!i10b 1
+!s100 >NV@YPUVC0f0F=85zlh_92
+IC3l?TiUUaMRY<5n1>c[aZ1
+R0
+w1669737953
+8F:/VHDL/ET5080E - 20221/HW7/BCD/bcd_tb.v
+FF:/VHDL/ET5080E - 20221/HW7/BCD/bcd_tb.v
+L0 1
+Z5 OL;L;10.7;67
+!s108 1669737957.000000
+!s107 F:/VHDL/ET5080E - 20221/HW7/BCD/bcd_tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|F:/VHDL/ET5080E - 20221/HW7/BCD/bcd_tb.v|
+!i113 0
+o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+vencoder_7segment
+Z6 !s110 1669738691
+!i10b 1
+!s100 Z[I9ERfKli7ILJLJ@Dho71
+I5HWGRDV[fjQDSY[8WKZ@e3
+R4
+R0
+w1669737844
+8bcd.v
+Fbcd.v
+L0 1
+R5
+r1
+!s85 0
+31
+Z7 !s108 1669738691.000000
+Z8 !s107 bcd_tb.v|bcd.v|
+Z9 !s90 -reportprogress|300|-coveropt|3|+cover|+acc|bcd.v|bcd_tb.v|
+!i113 0
+Z10 !s102 -coveropt 3 +cover
+Z11 o-coveropt 3 +cover +acc -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+vtb
+R6
+!i10b 1
+!s100 2ac_V[=WCi?RSFzUfQF0z2
+IBRB_3XH8D`XX[=:Xj0HX[3
+R4
+R0
+w1669738032
+8bcd_tb.v
+Fbcd_tb.v
+L0 1
+R5
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 0
+R10
+R11
+R2

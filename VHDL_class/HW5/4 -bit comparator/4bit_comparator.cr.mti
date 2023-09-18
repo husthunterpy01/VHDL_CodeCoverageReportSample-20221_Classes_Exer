@@ -1,0 +1,16 @@
+C:/modeltech64_10.7/examples/4bit_comparator_tb.v {1 {vlog -work work1 -vopt -stats=none C:/modeltech64_10.7/examples/4bit_comparator_tb.v
+Model Technology ModelSim SE-64 vlog 10.7 Compiler 2017.12 Dec  7 2017
+-- Compiling module four_bit_tb
+
+Top level modules:
+	four_bit_tb
+
+} {} {}} C:/modeltech64_10.7/examples/4bit_comparator.v {1 {vlog -work work1 -vopt -stats=none C:/modeltech64_10.7/examples/4bit_comparator.v
+Model Technology ModelSim SE-64 vlog 10.7 Compiler 2017.12 Dec  7 2017
+-- Compiling module four_bit_comp
+-- Compiling module two_bit_comp
+
+Top level modules:
+	four_bit_comp
+
+} {} {}}

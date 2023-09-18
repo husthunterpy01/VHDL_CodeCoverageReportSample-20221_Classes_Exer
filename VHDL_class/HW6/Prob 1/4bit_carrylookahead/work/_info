@@ -1,0 +1,75 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dF:/VHDL/ET5080E - 20221/HW6/Prob 1/4bit_carrylookahead
+T_opt
+!s110 1669280934
+V`a=nHobb4GbWK0]K:R35Q0
+Z1 04 13 4 work Test_CLA_4bit fast 0
+=1-d481d7904447-637f34a6-125-26f8
+o-quiet -auto_acc_if_foreign -work work +acc
+Z2 tCvgOpt 0
+n@_opt
+Z3 OL;O;10.7;67
+R0
+T_opt1
+!s110 1669282605
+VM5aZ@7Ln7?ZhIMCzFMHJ31
+R1
+=1-d481d7904447-637f3b2d-24e-1f34
+o-quiet -auto_acc_if_foreign -work work
+R2
+n@_opt1
+R3
+vCLA_4bit
+Z4 !s110 1669282553
+!i10b 1
+!s100 2^kKN6NQ;aBK?Zh[ADm101
+If]hcH3PQY18UYTdg[QdaR0
+Z5 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1669280836
+8CA.v
+FCA.v
+L0 1
+Z6 OL;L;10.7;67
+r1
+!s85 0
+31
+Z7 !s108 1669282553.000000
+Z8 !s107 CA_tb.v|CA.v|
+Z9 !s90 -reportprogress|300|-coveropt|3|+cover|+acc|CA.v|CA_tb.v|
+!i113 0
+Z10 !s102 -coveropt 3 +cover
+Z11 o-coveropt 3 +cover +acc -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+n@c@l@a_4bit
+vTest_CLA_4bit
+R4
+!i10b 1
+!s100 RD>HR0XYMf0@>R[WAi;F31
+I[o7CkWXgOez]4YQgeoCUl3
+R5
+R0
+w1669280915
+8CA_tb.v
+FCA_tb.v
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 0
+R10
+R11
+R2
+n@test_@c@l@a_4bit

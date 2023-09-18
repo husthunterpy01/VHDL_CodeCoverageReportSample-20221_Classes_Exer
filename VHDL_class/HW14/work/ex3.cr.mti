@@ -1,0 +1,7 @@
+{F:/VHDL/ET5080E - 20221/HW14/work/ex3.v} {0 {vlog -work work -vopt -stats=none {F:/VHDL/ET5080E - 20221/HW14/work/ex3.v}
+Model Technology ModelSim SE-64 vlog 10.7 Compiler 2017.12 Dec  7 2017
+-- Compiling module ex3
+** Error: (vlog-13069) F:/VHDL/ET5080E - 20221/HW14/work/ex3.v(5): near "=": syntax error, unexpected '='.
+** Error: F:/VHDL/ET5080E - 20221/HW14/work/ex3.v(5): (vlog-13205) Syntax error found in the scope following 'result'. Is there a missing '::'?
+
+} {4.0 6.0} {}}

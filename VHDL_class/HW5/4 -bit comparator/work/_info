@@ -1,0 +1,85 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dF:/VHDL/ET5080E - 20221/HW5/4 -bit comparator
+T_opt
+!s110 1668261139
+VFi^dLEAXHAXhO^`kQ?j:H3
+04 11 4 work four_bit_tb fast 0
+=1-d481d7904447-636fa513-2c6-f48
+o-quiet -auto_acc_if_foreign -work work
+Z1 tCvgOpt 0
+n@_opt
+OL;O;10.7;67
+vfour_bit_comp
+Z2 !s110 1668260931
+!i10b 1
+!s100 eM7HZ>MncTWKHn:=>Bn0]3
+I3VlEF>9=WSDQ04:M;Y<E:0
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z4 w1668240128
+Z5 84bit_comparator.v
+Z6 F4bit_comparator.v
+L0 3
+Z7 OL;L;10.7;67
+r1
+!s85 0
+31
+Z8 !s108 1668260931.000000
+Z9 !s107 4bit_comparator_tb.v|4bit_comparator.v|
+Z10 !s90 -reportprogress|300|-coveropt|3|+cover|+acc|4bit_comparator.v|4bit_comparator_tb.v|
+!i113 0
+Z11 !s102 -coveropt 3 +cover
+Z12 o-coveropt 3 +cover +acc -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
+vfour_bit_tb
+R2
+!i10b 1
+!s100 ?P0m7ZB0UaR[7DC[7DoFL2
+I;LAT<g;[om1a?n<6=9IYG0
+R3
+R0
+w1668244570
+84bit_comparator_tb.v
+F4bit_comparator_tb.v
+L0 3
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 0
+R11
+R12
+R1
+vtwo_bit_comp
+R2
+!i10b 1
+!s100 WN<bXSY@=@N5R8LkHS4P61
+IBlaDjX@>FA6NSKBl4MoBl3
+R3
+R0
+R4
+R5
+R6
+L0 17
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 0
+R11
+R12
+R1

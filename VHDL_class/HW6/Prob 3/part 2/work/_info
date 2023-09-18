@@ -1,0 +1,40 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dF:/VHDL/ET5080E - 20221/HW6/Prob 3/part 2
+T_opt
+!s110 1669343748
+V7Zbc3N?VVI3zZjo6K:CJM0
+04 7 4 work counter fast 0
+=1-d481d7904447-63802a04-34-4a70
+o-quiet -auto_acc_if_foreign -work work
+Z1 tCvgOpt 0
+n@_opt
+OL;O;10.7;67
+vcounter
+!s110 1669343630
+!i10b 1
+!s100 fGzUkF_`Q<T<W9R18n`0Z1
+I2NIeQbjIIha`jHeLHV81g3
+VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1512621731
+8counter.v
+Fcounter.v
+L0 10
+OL;L;10.7;67
+r1
+!s85 0
+31
+!s108 1669343630.000000
+!s107 counter.v|
+!s90 -reportprogress|300|counter.v|
+!i113 0
+o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1

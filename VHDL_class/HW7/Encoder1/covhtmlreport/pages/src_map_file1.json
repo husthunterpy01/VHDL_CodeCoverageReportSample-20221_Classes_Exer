@@ -1,0 +1,3 @@
+var g_data = {'dummy':null,
+'1':'encoder.v',
+'2':'encoder_tb.v'};

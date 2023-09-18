@@ -1,0 +1,15 @@
+{F:/VHDL/ET5080E - 20221/HW14/work/fsm_1.v} {1 {vlog -work work -vopt -stats=none {F:/VHDL/ET5080E - 20221/HW14/work/fsm_1.v}
+Model Technology ModelSim SE-64 vlog 10.7 Compiler 2017.12 Dec  7 2017
+-- Compiling module fsm_eg_2_seg
+
+Top level modules:
+	fsm_eg_2_seg
+
+} {} {}} {F:/VHDL/ET5080E - 20221/HW14/work/fsm_1_tb.v} {1 {vlog -work work -vopt -stats=none {F:/VHDL/ET5080E - 20221/HW14/work/fsm_1_tb.v}
+Model Technology ModelSim SE-64 vlog 10.7 Compiler 2017.12 Dec  7 2017
+-- Compiling module fsm_eg_2_seg_tb
+
+Top level modules:
+	fsm_eg_2_seg_tb
+
+} {} {}}

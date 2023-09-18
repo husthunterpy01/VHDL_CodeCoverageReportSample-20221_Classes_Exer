@@ -1,0 +1,3 @@
+var g_data = {'dummy':null,
+'1':'comparator.v',
+'2':'comparator_tb.v'};

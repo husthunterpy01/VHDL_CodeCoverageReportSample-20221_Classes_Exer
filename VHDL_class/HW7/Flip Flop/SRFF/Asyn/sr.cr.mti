@@ -1,0 +1,15 @@
+{F:/VHDL/ET5080E - 20221/HW7/Flip Flop/SRFF/Syn/sr.v} {1 {vlog -work work -vopt -stats=none {F:/VHDL/ET5080E - 20221/HW7/Flip Flop/SRFF/Syn/sr.v}
+Model Technology ModelSim SE-64 vlog 10.7 Compiler 2017.12 Dec  7 2017
+-- Compiling module sr_activelow_
+
+Top level modules:
+	sr_activelow_
+
+} {} {}} {F:/VHDL/ET5080E - 20221/HW7/Flip Flop/SRFF/Syn/sr_tb.v} {1 {vlog -work work -vopt -stats=none {F:/VHDL/ET5080E - 20221/HW7/Flip Flop/SRFF/Syn/sr_tb.v}
+Model Technology ModelSim SE-64 vlog 10.7 Compiler 2017.12 Dec  7 2017
+-- Compiling module test_bench
+
+Top level modules:
+	test_bench
+
+} {} {}}

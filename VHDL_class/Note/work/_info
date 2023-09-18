@@ -1,0 +1,129 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dF:/VHDL/ET5080E - 20221/Note
+T_opt
+!s110 1668098007
+VmzJLELz^@9IH_QSMCEzk=2
+04 22 4 work ripple_carry_16_bit_tb fast 0
+=1-d481d7904447-636d27d7-26f-23a8
+o-quiet -auto_acc_if_foreign -work work
+Z1 tCvgOpt 0
+n@_opt
+OL;O;10.7;67
+vfull_adder
+Z2 !s110 1668097184
+!i10b 1
+!s100 L?TgQO@jzen1V5g4Vg;mb0
+Ig7@IaU=zB?USk73462:7X1
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z4 w1667709892
+Z5 8rp_16.v
+Z6 Frp_16.v
+L0 57
+Z7 OL;L;10.7;67
+r1
+!s85 0
+31
+Z8 !s108 1668097184.000000
+Z9 !s107 rp_16_tb.v|rp_16.v|
+Z10 !s90 -reportprogress|300|-coveropt|3|+cover|+acc|rp_16.v|rp_16_tb.v|
+!i113 0
+Z11 !s102 -coveropt 3 +cover
+Z12 o-coveropt 3 +cover +acc -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
+vhalf_adder
+R2
+!i10b 1
+!s100 DZE^?>Ei65oAg[m1bd<CW1
+IVe@LFn^]8Vo95[n=2=K7N3
+R3
+R0
+R4
+R5
+R6
+L0 69
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 0
+R11
+R12
+R1
+vripple_carry_16_bit
+R2
+!i10b 1
+!s100 ^]z_PaeJIm:ISHbniEcL23
+I`1M:Z9Rngj;a?M=ViTbji2
+R3
+R0
+R4
+R5
+R6
+L0 1
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 0
+R11
+R12
+R1
+vripple_carry_16_bit_tb
+R2
+!i10b 1
+!s100 S4JD4N?gYPbXDCH_2;Nff3
+IiY]V5WZBGicJ4]dP`Zh6A2
+R3
+R0
+w1667709930
+8rp_16_tb.v
+Frp_16_tb.v
+L0 2
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 0
+R11
+R12
+R1
+vripple_carry_4_bit
+R2
+!i10b 1
+!s100 W0N4;2o]33=DPA@8>5M?R0
+I7E9WaN^h:CmWQ=D=E:>N=1
+R3
+R0
+R4
+R5
+R6
+L0 41
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 0
+R11
+R12
+R1

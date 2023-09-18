@@ -1,0 +1,26 @@
+`timescale 1ns / 1ps
+ 
+module four_bit_tb();
+    reg a0, a1, a2, a3;
+    reg b0, b1, b2, b3;
+    wire G, L, E;
+    
+    four_bit_comp dut(G, L, E, a0, a1, a2, a3, b0, b1, b2, b3);
+    
+    initial begin
+        repeat(16) begin
+	    #10; 	
+            a0 = $random();
+            a1 = $random();
+            a2 = $random();
+            a3 = $random();
+            b0 = $random();
+            b1 = $random();
+            b2 = $random();
+            b3 = $random();
+            #2;
+        end
+
+    $display($time,":\t\t a0 = ",a0,"\t\t a1 = ",a1,"\t\t a2 = ",a2,"\t\t a3 = ",a3,"\t\t b0 = ",b0,"\t\t b1 = ",b1,"\t\t b2 = ",b2,"\t\t b3 = ",b3,"\t\t G= ",G,"\t\t L =",L,"\t\t E=",E);
+    end
+endmodule : four_bit_tb 

@@ -1,0 +1,5 @@
+var g_data = {'dummy':{null},
+'work.fa':{h:'3',z:1},
+'/fa_tb/dut':{h:'10',z:1},
+'work.fa_tb':{h:'2',z:1},
+'/fa_tb':{h:'4',z:1}};

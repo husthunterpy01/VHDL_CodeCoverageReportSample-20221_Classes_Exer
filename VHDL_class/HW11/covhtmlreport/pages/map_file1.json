@@ -1,0 +1,5 @@
+var g_data = {'dummy':{null},
+'work.univ_bin_counter':{h:'3',z:1},
+'/bin_counter_tb/uut':{h:'21',z:1},
+'work.bin_counter_tb':{h:'2',z:1},
+'/bin_counter_tb':{h:'4',z:1}};

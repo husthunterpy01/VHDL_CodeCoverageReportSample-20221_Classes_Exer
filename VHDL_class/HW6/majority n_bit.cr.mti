@@ -1,0 +1,15 @@
+{F:/VHDL/ET5080E - 20221/HW6/majority_tb.v} {1 {vlog -work work -vopt -stats=none {F:/VHDL/ET5080E - 20221/HW6/majority_tb.v}
+Model Technology ModelSim SE-64 vlog 10.7 Compiler 2017.12 Dec  7 2017
+-- Compiling module tb_majority_n_bit
+
+Top level modules:
+	tb_majority_n_bit
+
+} {} {}} {F:/VHDL/ET5080E - 20221/HW6/major.v} {1 {vlog -work work -vopt -stats=none {F:/VHDL/ET5080E - 20221/HW6/major.v}
+Model Technology ModelSim SE-64 vlog 10.7 Compiler 2017.12 Dec  7 2017
+-- Compiling module majority_n_bit
+
+Top level modules:
+	majority_n_bit
+
+} {} {}}

@@ -1,0 +1,46 @@
+// T flip flop
+module tff(t,clk,re,q);
+input t,clk,re;
+output q;
+if(!re)
+q<=0;
+else
+if(t)
+q<=~q;
+else q<=q;
+end 
+endmodule : tff
+
+// TFF testbench
+
+module tff_tb
+reg t,clk,re;
+wire q,q_bar;
+tff dut(
+.clk(clk),
+.re(re),
+.t(t)
+.q(q)
+);
+
+always#5 clk = ~clk;
+initial begin
+(re,clk,t) <=0;
+repeat(2) @(posedge clk);
+re <=1;
+
+for(integer i=0;i<20;i= i+1) begin
+reg[4:0] dly = $random;
+#(dly) t <= $random;
+end
+#20 $finish;
+end
+endmodule
+
+//Source: https://www.javatpoint.com/verilog-t-flip-flop
+
+
+
+
+
+

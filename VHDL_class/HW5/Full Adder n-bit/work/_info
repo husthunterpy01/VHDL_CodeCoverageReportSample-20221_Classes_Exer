@@ -1,0 +1,73 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dF:/VHDL/ET5080E - 20221/HW5/Full Adder n-bit
+T_opt
+!s110 1668343172
+VW3PmMENjmF:70ANdI7z[=2
+Z1 04 5 4 work fa_tb fast 0
+=1-d481d7904447-6370e584-9-42ec
+o-quiet -auto_acc_if_foreign -work work +acc
+Z2 tCvgOpt 0
+n@_opt
+Z3 OL;O;10.7;67
+R0
+T_opt1
+!s110 1668343394
+VV3X`<YLehF0cWJ2@MRj9Q0
+R1
+=1-d481d7904447-6370e662-13-2f5c
+o-quiet -auto_acc_if_foreign -work work
+R2
+n@_opt1
+R3
+vfa
+Z4 !s110 1668343334
+!i10b 1
+!s100 =?nM_`QTK;Y;Ag;fn>0Io0
+IncRi@nZGR9O`mTL>lQ9[M1
+Z5 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1668342973
+8fa_nbit.v
+Ffa_nbit.v
+L0 1
+Z6 OL;L;10.7;67
+r1
+!s85 0
+31
+Z7 !s108 1668343334.000000
+Z8 !s107 fa_tb.v|fa_nbit.v|
+Z9 !s90 -reportprogress|300|-coveropt|3|+cover|+acc|fa_nbit.v|fa_tb.v|
+!i113 0
+Z10 !s102 -coveropt 3 +cover
+Z11 o-coveropt 3 +cover +acc -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+vfa_tb
+R4
+!i10b 1
+!s100 Hn64Rl<bRLC1Y@7SC@Wg93
+IOEQ9Bz4m74_gOAcNjE9LK0
+R5
+R0
+w1668343146
+8fa_tb.v
+Ffa_tb.v
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 0
+R10
+R11
+R2

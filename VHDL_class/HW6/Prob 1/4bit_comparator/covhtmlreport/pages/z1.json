@@ -1,0 +1,62 @@
+var g_data = {
+z3:{prod:'ModelSim',reporttype:'du',duname:'work.cp_4bit',lang:'Verilog',src:{z:'comparator.v'},summaryTables:{loctable:{
+headers:['Coverage Type', 'Bins', 'Hits', 'Misses', 'Weight', '% Hit', 'Coverage'],
+totalhits:{class:'odd_r', val:'100.00%'},avgw:{class:'bgGreen', val:'100.00%'},
+data:[
+{link:{class:'odd',val:'Toggles'},tb:{class:'odd_r', val:'46'},cb:{class:'odd_r', val:'46'},ms:{class:'odd_r', val:'0'},wt:{class:'odd_r', val:'1'},hp:{class:'odd_r', val:'100.00%'},cp:{class:'bgGreen', val:'100.00%'}}
+]
+}
+}
+},
+z54:{prod:'ModelSim',reporttype:'in',scopes:[{s:'4',b:'1',val:'tb'},{link:'z.htm?f=1&s=54',val:'dut'}],du:{val:'work.cp_4bit',link:'z.htm?f=1&s=54'},lang:'Verilog',src:{z:'comparator_tb.v'},summaryTables:{loctable:{
+headers:['Coverage Type', 'Bins', 'Hits', 'Misses', 'Weight', '% Hit', 'Coverage'],
+totalhits:{class:'odd_r', val:'100.00%'},avgw:{class:'bgGreen', val:'100.00%'},
+data:[
+{link:{class:'odd',val:'Toggles'},tb:{class:'odd_r', val:'46'},cb:{class:'odd_r', val:'46'},ms:{class:'odd_r', val:'0'},wt:{class:'odd_r', val:'1'},hp:{class:'odd_r', val:'100.00%'},cp:{class:'bgGreen', val:'100.00%'}}
+]
+}
+}
+},
+z2:{prod:'ModelSim',reporttype:'du',duname:'work.tb',lang:'Verilog',src:{z:'comparator_tb.v'},summaryTables:{loctable:{
+headers:['Coverage Type', 'Bins', 'Hits', 'Misses', 'Weight', '% Hit', 'Coverage'],
+totalhits:{class:'odd_r', val:'31.00%'},avgw:{class:'bgRed', val:'41.11%'},
+data:[
+{link:{class:'odd',val:'Statements'},tb:{class:'odd_r', val:'9'},cb:{class:'odd_r', val:'8'},ms:{class:'odd_r', val:'1'},wt:{class:'odd_r', val:'1'},hp:{class:'odd_r', val:'88.88%'},cp:{class:'bgYellow', val:'88.88%'}}
+,{link:{class:'even',val:'Branches'},tb:{class:'even_r', val:'2'},cb:{class:'even_r', val:'1'},ms:{class:'even_r', val:'1'},wt:{class:'even_r', val:'1'},hp:{class:'even_r', val:'50.00%'},cp:{class:'bgYellow', val:'50.00%'}}
+,{link:{class:'odd',val:'FEC Conditions'},tb:{class:'odd_r', val:'3'},cb:{class:'odd_r', val:'0'},ms:{class:'odd_r', val:'3'},wt:{class:'odd_r', val:'1'},hp:{class:'odd_r', val:'0.00%'},cp:{class:'bgRed', val:'0.00%'}}
+,{link:{class:'even',val:'Toggles'},tb:{class:'even_r', val:'86'},cb:{class:'even_r', val:'22'},ms:{class:'even_r', val:'64'},wt:{class:'even_r', val:'1'},hp:{class:'even_r', val:'25.58%'},cp:{class:'bgRed', val:'25.58%'}}
+]
+}
+}
+},
+z4:{prod:'ModelSim',reporttype:'in',scopes:[{link:'z.htm?f=1&s=4',val:'tb'}],du:{val:'work.tb',link:'z.htm?f=1&s=4'},lang:'Verilog',src:{z:'comparator_tb.v'},summaryTables:{
+headers:['Statement', 'Branch', 'FEC Condition', 'Toggle'],
+instances:[{parent:'0',ln:'TOTAL',covs:[{class:'bgRed', val:'47.02'},{class:'bgYellow', val:'88.88'},{class:'bgYellow', val:'50.00'},{class:'bgRed', val:'0.00'},{class:'bgRed', val:'49.20'}]},
+{parent:'0',ln:'tb',covs:[{class:'bgRed', val:'41.11'},{class:'bgYellow', val:'88.88'},{class:'bgYellow', val:'50.00'},{class:'bgRed', val:'0.00'},{class:'bgRed', val:'25.58'}]},
+{parent:'1',link:'z.htm?f=1&s=54',ln:'dut',covs:[{class:'bgGreen', val:'100.00'},{class:'odd', val:'--'},{class:'odd', val:'--'},{class:'odd', val:'--'},{class:'bgGreen', val:'100.00'}]},
+]
+,loctable:{
+headers:['Coverage Type', 'Bins', 'Hits', 'Misses', 'Weight', '% Hit', 'Coverage'],
+totalhits:{class:'odd_r', val:'31.00%'},avgw:{class:'bgRed', val:'41.11%'},
+data:[
+{link:{class:'odd',val:'Statements'},tb:{class:'odd_r', val:'9'},cb:{class:'odd_r', val:'8'},ms:{class:'odd_r', val:'1'},wt:{class:'odd_r', val:'1'},hp:{class:'odd_r', val:'88.88%'},cp:{class:'bgYellow', val:'88.88%'}}
+,{link:{class:'even',val:'Branches'},tb:{class:'even_r', val:'2'},cb:{class:'even_r', val:'1'},ms:{class:'even_r', val:'1'},wt:{class:'even_r', val:'1'},hp:{class:'even_r', val:'50.00%'},cp:{class:'bgYellow', val:'50.00%'}}
+,{link:{class:'odd',val:'FEC Conditions'},tb:{class:'odd_r', val:'3'},cb:{class:'odd_r', val:'0'},ms:{class:'odd_r', val:'3'},wt:{class:'odd_r', val:'1'},hp:{class:'odd_r', val:'0.00%'},cp:{class:'bgRed', val:'0.00%'}}
+,{link:{class:'even',val:'Toggles'},tb:{class:'even_r', val:'86'},cb:{class:'even_r', val:'22'},ms:{class:'even_r', val:'64'},wt:{class:'even_r', val:'1'},hp:{class:'even_r', val:'25.58%'},cp:{class:'bgRed', val:'25.58%'}}
+]
+}
+,rectable:{
+headers:['Coverage Type', 'Bins', 'Hits', 'Misses', 'Weight', '% Hit', 'Coverage'],
+totalhits:{class:'odd_r', val:'50.71%'},avgw:{class:'bgRed', val:'47.02%'},
+data:[
+{link:{class:'odd',val:'Statements'},tb:{class:'odd_r', val:'9'},cb:{class:'odd_r', val:'8'},ms:{class:'odd_r', val:'1'},wt:{class:'odd_r', val:'1'},hp:{class:'odd_r', val:'88.88%'},cp:{class:'bgYellow', val:'88.88%'}}
+,{link:{class:'even',val:'Branches'},tb:{class:'even_r', val:'2'},cb:{class:'even_r', val:'1'},ms:{class:'even_r', val:'1'},wt:{class:'even_r', val:'1'},hp:{class:'even_r', val:'50.00%'},cp:{class:'bgYellow', val:'50.00%'}}
+,{link:{class:'odd',val:'FEC Conditions'},tb:{class:'odd_r', val:'3'},cb:{class:'odd_r', val:'0'},ms:{class:'odd_r', val:'3'},wt:{class:'odd_r', val:'1'},hp:{class:'odd_r', val:'0.00%'},cp:{class:'bgRed', val:'0.00%'}}
+,{link:{class:'even',val:'Toggles'},tb:{class:'even_r', val:'126'},cb:{class:'even_r', val:'62'},ms:{class:'even_r', val:'64'},wt:{class:'even_r', val:'1'},hp:{class:'even_r', val:'49.20%'},cp:{class:'bgRed', val:'49.20%'}}
+]
+}
+}
+},
+dummyEnd:0
+};
+processSummaryData(g_data);

@@ -1,0 +1,10 @@
+{F:/VHDL/ET5080E - 20221/HW5/Carry Look Ahead Adder n-bit/carryadder.v} {1 {vlog -work work -vopt -stats=none {F:/VHDL/ET5080E - 20221/HW5/Carry Look Ahead Adder n-bit/carryadder.v}
+Model Technology ModelSim SE-64 vlog 10.7 Compiler 2017.12 Dec  7 2017
+-- Compiling module full_adder_gp
+-- Compiling module GP
+-- Compiling module CLA
+
+Top level modules:
+	CLA
+
+} {} {}}

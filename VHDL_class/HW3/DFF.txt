@@ -1,0 +1,41 @@
+// Verilog D flip flop
+module dff (clk,d,re,q,q_bar);
+input clk,d,re;
+output q,q_bar;
+assign q_bar = ~q; // toggle q output
+always @(posedge clk)
+begin
+if(re == 1'b1)
+q = 1'b0;
+else 
+q = d;
+end
+endmodule : d_ff
+
+// D flip flop testbench
+
+module dff_tb();
+reg clk,d,re;
+wire q,qbar;
+dff dut(
+.clk(clk),
+.d(d),
+.re(re),
+.q(q),
+.q_bar(q_bar)
+);
+
+initial begin
+repeat(20) begin
+// Input initialization
+d = 1'b0;
+clk = 1'b0;
+re = 1'b1;
+// Wait for 100 ns for global reset to finish
+#100;
+// Stimulus addition
+re = 1'b0;
+#20l
+forever #40 D = ~D;
+end always #10 clk = `~clk;
+endmodule : dff_tb

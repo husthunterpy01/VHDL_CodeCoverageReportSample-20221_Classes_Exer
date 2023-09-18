@@ -1,0 +1,55 @@
+// JK flip flop
+//Ref: https://www.youtube.com/watch?v=775ARR6qz9U
+module jk(j,k,re,clk,q,qn)
+input j,k,re,clk;
+output q,qn;
+intial begin
+q = 1'b0;
+qn = ~q;
+end
+
+always @(poseedge clk)
+begin
+case({j,k})
+2'b0-1:q=0;
+2'b10:q=1;
+2'b11:q=~q;
+endcase
+qn=~q
+end
+endmodule :jk
+
+//JK testbench
+module jk_tb()
+reg j,k,re,clk;
+wire q,qn;
+
+jk dut(
+.j(j),
+.k(k),
+.clk(clk),
+.re(re),
+.q(q),
+.qn(qn)
+);
+
+initial begin
+  forever begin
+      clk<=0;
+      #100;
+      clk<=1;
+      #100;
+  end
+end
+
+initial begin
+reset=1; j=1;k=0;
+#100;
+reset=0;j=0;k=0;
+#100;
+reset=0;j=0;k=1;
+#100;
+reset=0;j=1;k=1;
+#100;
+end
+endmodule : jk_tb

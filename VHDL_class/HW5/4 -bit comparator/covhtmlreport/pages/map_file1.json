@@ -1,0 +1,8 @@
+var g_data = {'dummy':{null},
+'/four_bit_tb/dut/comp1':{h:'41',z:1},
+'/four_bit_tb/dut/comp2':{h:'55',z:1},
+'work.four_bit_comp':{h:'3',z:1},
+'/four_bit_tb/dut':{h:'17',z:1},
+'work.four_bit_tb':{h:'2',z:1},
+'/four_bit_tb':{h:'5',z:1},
+'work.two_bit_comp':{h:'4',z:1}};

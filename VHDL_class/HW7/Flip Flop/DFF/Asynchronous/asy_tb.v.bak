@@ -1,0 +1,29 @@
+module tb_FF;
+reg clk;
+reg d;
+reg rstn;
+reg [2:0] delay;
+dff dff0(
+.d(d),
+.rstn(rstn),
+.clk(clk),
+.q(q)
+);
+// Clock generation
+always #10 clk = ~clk;
+// Test case
+initial begin
+clk <= 0;
+d <= 0;
+rstn <= 0;
+
+#15 d <= 1;
+#10 rstn <= 1;
+
+while (i <4) begin
+delay = $random;
+#(delay) d <= i;
+i = i + 1;
+end
+end 
+endmodule

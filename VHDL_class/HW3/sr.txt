@@ -1,0 +1,36 @@
+// SR flip flop
+// Reference: https://technobyte.org/sr-flip-flop-verilog-gate-dataflow-behavioral/
+module srff(s,r,clk,q,q_bar);
+input s,r,clk;
+output q,q_bar;
+wire nand1_out,nand2_out;
+
+nand(nand1_out,clk,s);
+nand(nand2_out,clk,r);
+nand(q,nand1_out,qbar);
+nand(qbar,nand2_out,q);
+endmodule :srff
+
+module srff_tb();
+reg s,r,clk;
+wire q,q_bar;
+
+srff dut(
+.s(s),
+.r(r),
+.clk(clk),
+.q(q),
+.q_bar(q_bar)
+);
+
+initial begin
+clk =0;
+forever #10 clk = ~clk;
+end
+initial begin
+s=1;r=0
+#100; s=0;r=1;
+#100; s=0;r=0;
+#1--; s=1;r=1;
+end
+endmodule :srff_tb

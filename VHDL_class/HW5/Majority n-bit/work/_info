@@ -1,0 +1,73 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dF:/VHDL/ET5080E - 20221/HW5/Majority n-bit
+T_opt
+!s110 1668701960
+VA=<BSH5aLImkXz;Zeml6J0
+Z1 04 2 4 work tb fast 0
+=1-d481d7904447-63765f08-9-336c
+o-quiet -auto_acc_if_foreign -work work +acc
+Z2 tCvgOpt 0
+n@_opt
+Z3 OL;O;10.7;67
+R0
+T_opt1
+!s110 1668702231
+V_7dkZ4Ul73jIehbU>2?D71
+R1
+=1-d481d7904447-63766016-313-1b3c
+o-quiet -auto_acc_if_foreign -work work
+R2
+n@_opt1
+R3
+vmajority
+Z4 !s110 1668702196
+!i10b 1
+!s100 b20X2hhMn=ozVBmdj_KjA2
+I^Wl5]RE__Tm0@Bhi2WEBT2
+Z5 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1668701832
+8major.v
+Fmajor.v
+L0 1
+Z6 OL;L;10.7;67
+r1
+!s85 0
+31
+Z7 !s108 1668702196.000000
+Z8 !s107 majority_tb.v|major.v|
+Z9 !s90 -reportprogress|300|-coveropt|3|+cover|+acc|major.v|majority_tb.v|
+!i113 0
+Z10 !s102 -coveropt 3 +cover
+Z11 o-coveropt 3 +cover +acc -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+vtb
+R4
+!i10b 1
+!s100 Y^jTn<dkFHRX>fVQ9c15Z1
+I]KI13aIUUbcjm=22C^TCN1
+R5
+R0
+w1668701906
+8majority_tb.v
+Fmajority_tb.v
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 0
+R10
+R11
+R2

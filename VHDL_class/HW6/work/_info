@@ -1,0 +1,72 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dF:/VHDL/ET5080E - 20221/HW6
+vmajority
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+31
+!i10b 1
+!s100 eU9o5KKf4XEg9e0f4f:G`0
+I4o<:16bNK9oS3?`bYXfRZ0
+R0
+w1668765292
+Z2 8F:/VHDL/ET5080E - 20221/HW6/major.v
+Z3 FF:/VHDL/ET5080E - 20221/HW6/major.v
+L0 1
+Z4 OL;L;10.7;67
+!s108 1668765295.000000
+Z5 !s107 F:/VHDL/ET5080E - 20221/HW6/major.v|
+Z6 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|F:/VHDL/ET5080E - 20221/HW6/major.v|
+!i113 0
+Z7 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z8 tCvgOpt 0
+vmajority_n_bit
+Z9 !s110 1668765776
+!i10b 1
+!s100 R896a3Mc5YkAzD?DQ@anG2
+Ih^QHEZFCYhKV:_jA]m_?73
+R1
+R0
+w1668765537
+R2
+R3
+L0 1
+R4
+r1
+!s85 0
+31
+Z10 !s108 1668765776.000000
+R5
+R6
+!i113 0
+R7
+R8
+vtb_majority_n_bit
+R9
+!i10b 1
+!s100 0Uh=cjd4>2bPOCb`f?:=T2
+IX1TN2;@>Cc2R:MYhOQI0@1
+R1
+R0
+w1668765758
+8F:/VHDL/ET5080E - 20221/HW6/majority_tb.v
+FF:/VHDL/ET5080E - 20221/HW6/majority_tb.v
+L0 4
+R4
+r1
+!s85 0
+31
+R10
+!s107 F:/VHDL/ET5080E - 20221/HW6/majority_tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|F:/VHDL/ET5080E - 20221/HW6/majority_tb.v|
+!i113 0
+R7
+R8

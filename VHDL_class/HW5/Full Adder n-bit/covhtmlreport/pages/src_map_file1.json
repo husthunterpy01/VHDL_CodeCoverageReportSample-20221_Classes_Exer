@@ -1,0 +1,3 @@
+var g_data = {'dummy':null,
+'1':'fa_nbit.v',
+'2':'fa_tb.v'};

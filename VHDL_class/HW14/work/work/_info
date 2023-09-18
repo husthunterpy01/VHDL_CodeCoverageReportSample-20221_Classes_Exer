@@ -1,0 +1,122 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dF:/VHDL/ET5080E - 20221/HW14/work
+T_opt
+!s110 1673437134
+VTOMbU:EB5fz>Qbj=Rkj`O0
+04 15 4 work fsm_eg_2_seg_tb fast 0
+=1-d481d7904447-63be9fcd-389-37f4
+Z1 o-quiet -auto_acc_if_foreign -work work +acc
+Z2 tCvgOpt 0
+n@_opt
+Z3 OL;O;10.7;67
+R0
+T_opt1
+!s110 1673441213
+V^;@ZN1Fh@YElZSj6[W7zX2
+04 12 4 work fsm_eg_2_seg fast 0
+=1-d481d7904447-63beafbd-1f1-4250
+o-quiet -auto_acc_if_foreign -work work
+R2
+n@_opt1
+R3
+R0
+T_opt2
+!s110 1673445635
+VMR1@gMz<]8^>Rd90zaP6[2
+04 7 4 work fsm2_tb fast 0
+=1-d481d7904447-63bec103-155-34c4
+R1
+R2
+n@_opt2
+R3
+vfsm2
+!s110 1673445513
+!i10b 1
+!s100 _IEf_NmDUD`h;5`542X?71
+IIBIHjAXfFG=GzoT<0AO1F2
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1673445510
+8F:/VHDL/ET5080E - 20221/HW14/work/fsm_2.v
+FF:/VHDL/ET5080E - 20221/HW14/work/fsm_2.v
+L0 1
+Z5 OL;L;10.7;67
+r1
+!s85 0
+31
+!s108 1673445513.000000
+!s107 F:/VHDL/ET5080E - 20221/HW14/work/fsm_2.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|F:/VHDL/ET5080E - 20221/HW14/work/fsm_2.v|
+!i113 0
+Z6 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+vfsm2_tb
+!s110 1673445622
+!i10b 1
+!s100 S]b;6F:;S7Fg5ejF4hI7k2
+IEH4LgX6OZSiMnl9Y[==HL2
+R4
+R0
+w1673445620
+8F:/VHDL/ET5080E - 20221/HW14/work/fsm2_tb.v
+FF:/VHDL/ET5080E - 20221/HW14/work/fsm2_tb.v
+L0 3
+R5
+r1
+!s85 0
+31
+!s108 1673445622.000000
+!s107 F:/VHDL/ET5080E - 20221/HW14/work/fsm2_tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|F:/VHDL/ET5080E - 20221/HW14/work/fsm2_tb.v|
+!i113 0
+R6
+R2
+vfsm_eg_2_seg
+R4
+r1
+!s85 0
+31
+!i10b 1
+!s100 Qf?bejLD;Rkf5U9`Ca4gN1
+I[7=McE3?SefDeLcM]PR_D3
+R0
+w1673435258
+8F:/VHDL/ET5080E - 20221/HW14/work/fsm_1.v
+FF:/VHDL/ET5080E - 20221/HW14/work/fsm_1.v
+L0 1
+R5
+!s108 1673436003.000000
+!s107 F:/VHDL/ET5080E - 20221/HW14/work/fsm_1.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|F:/VHDL/ET5080E - 20221/HW14/work/fsm_1.v|
+!i113 0
+R6
+R2
+vfsm_eg_2_seg_tb
+!s110 1673440800
+!i10b 1
+!s100 7H>Q8ldgChG7Q@Y^mc?iY0
+I[[c:BNcmZ5?Kha_8L:l>32
+R4
+R0
+w1673437172
+8F:/VHDL/ET5080E - 20221/HW14/work/fsm_1_tb.v
+FF:/VHDL/ET5080E - 20221/HW14/work/fsm_1_tb.v
+L0 3
+R5
+r1
+!s85 0
+31
+!s108 1673440800.000000
+!s107 F:/VHDL/ET5080E - 20221/HW14/work/fsm_1_tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|F:/VHDL/ET5080E - 20221/HW14/work/fsm_1_tb.v|
+!i113 0
+R6
+R2

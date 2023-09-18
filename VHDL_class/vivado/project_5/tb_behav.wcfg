@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="tb_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="tb" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="1251948670fs"></ZoomStartTime>
+      <ZoomEndTime time="1252098071fs"></ZoomEndTime>
+      <Cursor1Time time="1251900970fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="227"></NameColumnWidth>
+      <ValueColumnWidth column_width="90"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="10" />
+   <wvobject fp_name="/tb/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/reset" type="logic">
+      <obj_property name="ElementShortName">reset</obj_property>
+      <obj_property name="ObjectShortName">reset</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/imgData" type="array">
+      <obj_property name="ElementShortName">imgData[7:0]</obj_property>
+      <obj_property name="ObjectShortName">imgData[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/i" type="array">
+      <obj_property name="ElementShortName">i[31:0]</obj_property>
+      <obj_property name="ObjectShortName">i[31:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/imgDataValid" type="logic">
+      <obj_property name="ElementShortName">imgDataValid</obj_property>
+      <obj_property name="ObjectShortName">imgDataValid</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/sentSize" type="array">
+      <obj_property name="ElementShortName">sentSize[31:0]</obj_property>
+      <obj_property name="ObjectShortName">sentSize[31:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/intr" type="logic">
+      <obj_property name="ElementShortName">intr</obj_property>
+      <obj_property name="ObjectShortName">intr</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/outData" type="array">
+      <obj_property name="ElementShortName">outData[7:0]</obj_property>
+      <obj_property name="ObjectShortName">outData[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/outDataValid" type="logic">
+      <obj_property name="ElementShortName">outDataValid</obj_property>
+      <obj_property name="ObjectShortName">outDataValid</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/receivedData" type="array">
+      <obj_property name="ElementShortName">receivedData[31:0]</obj_property>
+      <obj_property name="ObjectShortName">receivedData[31:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+</wave_config>

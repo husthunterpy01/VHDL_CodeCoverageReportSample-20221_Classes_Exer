@@ -1,0 +1,438 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dF:/VHDL/ET5080E - 20221/Big project/pipelined_fft_128-master_ref/work
+T_opt
+!s110 1672728865
+VGZRA5E53alH5CMeR@33Z71
+04 9 4 work FFT128_tb fast 0
+=1-d481d7904447-63b3d120-272-5bc8
+o-quiet -auto_acc_if_foreign -work work +acc
+Z1 tCvgOpt 0
+n@_opt
+Z2 OL;O;10.7;67
+R0
+T_opt1
+!s110 1675415154
+VMU7]b06X2>OW^26QXdeA32
+04 5 4 work FFT16 fast 0
+=1-d481d7904447-63dcce71-187-5ef8
+Z3 o-quiet -auto_acc_if_foreign -work work
+R1
+n@_opt1
+R2
+R0
+T_opt2
+!s110 1675415587
+V?^A7FzP@]EWdL0gaCh4`A2
+04 12 4 work BUFRAM128C_2 fast 0
+=1-d481d7904447-63dcd023-9d-3760
+R3
+R1
+n@_opt2
+R2
+vBUFRAM128C
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+31
+!i10b 1
+!s100 <T1aj<FSRA]n2j3^1f_;O2
+I=cCa@NBXD9ndo_KLC_dck1
+R0
+w1672589424
+8bufram128c.v
+Fbufram128c.v
+Z5 L0 54
+Z6 OL;L;10.7;67
+Z7 !s108 1674842433.000000
+Z8 !s107 FFT128_CONFIG.inc|rotator128_v.v|ram2x128.v|ram128.v|mpuc924_383.v|mpuc707.v|mpuc541.v|mpuc1307.v|fft8_3.v|fft16.v|fft128.v|cnorm_2.v|cnorm_1.v|cnorm.v|bufram128c_2.v|bufram128c_1.v|bufram128c.v|Wave_ROM128.v|WROM128.v|FFT128_TB.v|
+Z9 !s90 -reportprogress|300|FFT128_TB.v|WROM128.v|Wave_ROM128.v|bufram128c.v|bufram128c_1.v|bufram128c_2.v|cnorm.v|cnorm_1.v|cnorm_2.v|fft128.v|fft16.v|fft8_3.v|mpuc1307.v|mpuc541.v|mpuc707.v|mpuc924_383.v|ram128.v|ram2x128.v|rotator128_v.v|
+!i113 0
+Z10 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
+n@b@u@f@r@a@m128@c
+vBUFRAM128C_1
+R4
+r1
+!s85 0
+31
+!i10b 1
+!s100 n]UjYjzl<^V@Eik]4B9zU1
+I>=AP:1m5AGEbUelE^4BN<2
+R0
+Z11 w1265126644
+8bufram128c_1.v
+Fbufram128c_1.v
+R5
+R6
+R7
+R8
+R9
+!i113 0
+R10
+R1
+n@b@u@f@r@a@m128@c_1
+vBUFRAM128C_2
+R4
+r1
+!s85 0
+31
+!i10b 1
+!s100 XgXbk4IVP<1Y5Zh`8Tz123
+IeLG1nW:cWZzkgb_6EAfPh3
+R0
+R11
+8bufram128c_2.v
+Fbufram128c_2.v
+R5
+R6
+R7
+R8
+R9
+!i113 0
+R10
+R1
+n@b@u@f@r@a@m128@c_2
+vCNORM
+R4
+r1
+!s85 0
+31
+!i10b 1
+!s100 092kAmMnRc86@MP=oQ>>e2
+I]cmA73EJQ?U<OPXke3h;c3
+R0
+R11
+8cnorm.v
+Fcnorm.v
+Z12 L0 58
+R6
+R7
+R8
+R9
+!i113 0
+R10
+R1
+n@c@n@o@r@m
+vCNORM_1
+R4
+r1
+!s85 0
+31
+!i10b 1
+!s100 T_G7i@EZnInA=7;[d3]oV2
+InzjLAEiPTGLJcconf[B9j1
+R0
+R11
+8cnorm_1.v
+Fcnorm_1.v
+R12
+R6
+R7
+R8
+R9
+!i113 0
+R10
+R1
+n@c@n@o@r@m_1
+vCNORM_2
+R4
+r1
+!s85 0
+31
+!i10b 1
+!s100 ;1e>iZo@K^Y@jgfmmZ?2:3
+Ijl0_j<L0]mb;kNI=bXz_g2
+R0
+R11
+8cnorm_2.v
+Fcnorm_2.v
+R12
+R6
+R7
+R8
+R9
+!i113 0
+R10
+R1
+n@c@n@o@r@m_2
+vFFT128
+R4
+r1
+!s85 0
+31
+!i10b 1
+!s100 :H]@Yz;k1A<fSmL[SQ4Q`2
+I3ZQVWnKVR;`e1iPNm1B1F1
+R0
+R11
+8fft128.v
+Ffft128.v
+L0 70
+R6
+R7
+R8
+R9
+!i113 0
+R10
+R1
+n@f@f@t128
+vFFT128_tb
+R4
+r1
+!s85 0
+31
+!i10b 1
+!s100 YnmGF2FH9B[72c0i:0P163
+I:a>^0g<dnoW<G]05NiT900
+R0
+w1675088043
+8F:/VHDL/ET5080E - 20221/Big project/pipelined_fft_128-master_ref/work/FFT128_TB.v
+FF:/VHDL/ET5080E - 20221/Big project/pipelined_fft_128-master_ref/work/FFT128_TB.v
+L0 61
+R6
+!s108 1675088053.000000
+!s107 FFT128_CONFIG.inc|F:/VHDL/ET5080E - 20221/Big project/pipelined_fft_128-master_ref/work/FFT128_TB.v|
+!s90 -reportprogress|300|-L|mtiAvm|-L|mtiRnm|-L|mtiOvm|-L|mtiUvm|-L|mtiUPF|-L|infact|F:/VHDL/ET5080E - 20221/Big project/pipelined_fft_128-master_ref/work/FFT128_TB.v|
+!i113 0
+R10
+R1
+n@f@f@t128_tb
+vFFT16
+R4
+r1
+!s85 0
+31
+!i10b 1
+!s100 oTT43G5GCGK@3Z1mdlHFk2
+IYGAzozC9S8@B8cDXa`;W32
+R0
+R11
+8fft16.v
+Ffft16.v
+L0 126
+R6
+R7
+R8
+R9
+!i113 0
+R10
+R1
+n@f@f@t16
+vFFT8
+R4
+r1
+!s85 0
+31
+!i10b 1
+!s100 BlG9K0@GISdQ][O6oH4Tg1
+IN_52[;]fHLJ2kL=8COlkX3
+R0
+R11
+8fft8_3.v
+Ffft8_3.v
+L0 98
+R6
+R7
+R8
+R9
+!i113 0
+R10
+R1
+n@f@f@t8
+vMPUC1307
+R4
+r1
+!s85 0
+31
+!i10b 1
+!s100 aRoU9F1b<<P]a;:1zTUKA3
+IZHEkPzk7glA;8?M3glTDQ0
+R0
+R11
+8mpuc1307.v
+Fmpuc1307.v
+Z13 L0 53
+R6
+R7
+R8
+R9
+!i113 0
+R10
+R1
+n@m@p@u@c1307
+vMPUC541
+R4
+r1
+!s85 0
+31
+!i10b 1
+!s100 cCKETe^45fRGnm>6<5M:h0
+IC>G@@odI=gFmo107R4OE=3
+R0
+R11
+8mpuc541.v
+Fmpuc541.v
+R13
+R6
+R7
+R8
+R9
+!i113 0
+R10
+R1
+n@m@p@u@c541
+vMPUC707
+R4
+r1
+!s85 0
+31
+!i10b 1
+!s100 ^N3Ded9?i7Qi:^j<HE<8T3
+IdGZWNfj>2MGVXl=0GaBJ12
+R0
+R11
+8mpuc707.v
+Fmpuc707.v
+L0 52
+R6
+R7
+R8
+R9
+!i113 0
+R10
+R1
+n@m@p@u@c707
+vMPUC924_383
+R4
+r1
+!s85 0
+31
+!i10b 1
+!s100 i2_o73O^><KT4bn0F2@K03
+I:PnWL][1NUQ]>W1Yf`4OR2
+R0
+R11
+8mpuc924_383.v
+Fmpuc924_383.v
+R13
+R6
+R7
+R8
+R9
+!i113 0
+R10
+R1
+n@m@p@u@c924_383
+vRAM128
+R4
+r1
+!s85 0
+31
+!i10b 1
+!s100 3czbnUW=9Oj<S1l7Q^ob`1
+IzL_`?Zk=EYi]_ealn<=RR0
+R0
+R11
+8ram128.v
+Fram128.v
+L0 50
+R6
+R7
+R8
+R9
+!i113 0
+R10
+R1
+n@r@a@m128
+vRAM2x128C
+R4
+r1
+!s85 0
+31
+!i10b 1
+!s100 :Gc@^4Dd=<U`;On?9Yd`33
+I3eUlT]ibKi28n`5WJnk?n3
+R0
+R11
+8ram2x128.v
+Fram2x128.v
+L0 56
+R6
+R7
+R8
+R9
+!i113 0
+R10
+R1
+n@r@a@m2x128@c
+vROTATOR128
+R4
+r1
+!s85 0
+31
+!i10b 1
+!s100 :W]i[L1P[bI7l;X2N1=AG0
+I<AaM84DcPYd^PR_MoSaRN2
+R0
+R11
+8rotator128_v.v
+Frotator128_v.v
+R5
+R6
+R7
+R8
+R9
+!i113 0
+R10
+R1
+n@r@o@t@a@t@o@r128
+vWave_ROM128
+R4
+r1
+!s85 0
+31
+!i10b 1
+!s100 7T`88CHaEU<Pj4[M9I1683
+I[lIm0_g`]<U7?K[[PeVPo3
+R0
+R11
+8Wave_ROM128.v
+FWave_ROM128.v
+L0 43
+R6
+R7
+R8
+R9
+!i113 0
+R10
+R1
+n@wave_@r@o@m128
+vWROM128
+R4
+r1
+!s85 0
+31
+!i10b 1
+!s100 <VLK?9ARE1BBNVO03llD82
+IC7NTODLKd`KC[?=KW67MA3
+R0
+R11
+8WROM128.v
+FWROM128.v
+R13
+R6
+R7
+R8
+R9
+!i113 0
+R10
+R1
+n@w@r@o@m128

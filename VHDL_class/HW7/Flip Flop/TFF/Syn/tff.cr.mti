@@ -1,0 +1,15 @@
+{F:/VHDL/ET5080E - 20221/HW7/Flip Flop/TFF/Syn/tff.v} {1 {vlog -work work -vopt -stats=none {F:/VHDL/ET5080E - 20221/HW7/Flip Flop/TFF/Syn/tff.v}
+Model Technology ModelSim SE-64 vlog 10.7 Compiler 2017.12 Dec  7 2017
+-- Compiling module prog5_Tflip_flop
+
+Top level modules:
+	prog5_Tflip_flop
+
+} {} {}} {F:/VHDL/ET5080E - 20221/HW7/Flip Flop/TFF/Syn/tff_tb.v} {1 {vlog -work work -vopt -stats=none {F:/VHDL/ET5080E - 20221/HW7/Flip Flop/TFF/Syn/tff_tb.v}
+Model Technology ModelSim SE-64 vlog 10.7 Compiler 2017.12 Dec  7 2017
+-- Compiling module prog5_Tflip_flop_tb_v
+
+Top level modules:
+	prog5_Tflip_flop_tb_v
+
+} {} {}}
